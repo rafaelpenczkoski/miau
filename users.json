@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5e25b32e5460df01e66e5c32"},"name":"Rafael Penczkoski","email":"rafael@teste.com","password":"$2a$10$4wJAwKV54fl.Gv.6ZXhwtuJpJMjw7oz5okHlBySmKgngWzJh7ylKy","createdAt":{"$date":{"$numberLong":"1579529006344"}},"__v":{"$numberInt":"0"},"passwordResetExpires":{"$date":{"$numberLong":"1579560887365"}},"passwordResetToken":"c3f1eafaec328b64139af229b040eb60c97531be"}
